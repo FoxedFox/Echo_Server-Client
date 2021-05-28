@@ -1,0 +1,15 @@
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.exe
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.deps.json
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.runtimeconfig.json
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.runtimeconfig.dev.json
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.dll
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\ref\SocketTCPServer.dll
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\bin\Debug\net5.0\SocketTCPServer.pdb
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.AssemblyInfoInputs.cache
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.AssemblyInfo.cs
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.dll
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\ref\SocketTCPServer.dll
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.pdb
+C:\Users\Рыба\Desktop\EchoServer-Client\SocketTCPServer\SocketTCPServer\obj\Debug\net5.0\SocketTCPServer.genruntimeconfig.cache
